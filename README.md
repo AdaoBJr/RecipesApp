@@ -1,6 +1,15 @@
 <p align="center"><img width='150px' src='https://image.flaticon.com/icons/png/512/890/890035.png' />
 <h1 align="center">Recipes App | FineChefs </h1>  </p>
 
+ <h2 align="center">GitHub Pages:</h2>
+ 
+ <div align="center">
+   <a href=“https://adaobjr.github.io/RecipesApp/“>
+     <img width='150px' src='https://image.flaticon.com/icons/png/512/5222/5222347.png' />
+   </a>
+ </div>
+ 
+<h5 align="center">Clique na imagem</h5>
 
 ## Desenvolvido por
 
