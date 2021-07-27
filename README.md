@@ -4,9 +4,8 @@
  <h2 align="center">GitHub Pages:</h2>
  
  <div align="center">
-   <a href=“https://adaobjr.github.io/RecipesApp/“>
-     <img width='150px' src='https://image.flaticon.com/icons/png/512/5222/5222347.png' />
-   </a>
+   <a href="https://adaobjr.github.io/RecipesApp/" target="_blank">
+    <img width='100px' src='https://image.flaticon.com/icons/png/512/5222/5222347.png' />
  </div>
  
 <h5 align="center">Clique na imagem</h5>
