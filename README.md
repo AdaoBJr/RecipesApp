@@ -1,4 +1,4 @@
-<p align="center"><img width='150px' src='https://image.flaticon.com/icons/png/512/890/890035.png' />
+<p align="center"><img width='150px' src='https://github.com/AdaoBJr/RecipesApp/blob/master/src/images/work1.png' />
 <h1 align="center">Recipes App | FineChefs </h1>  </p>
 
  <h2 align="center">GitHub Pages:</h2>
