@@ -1,5 +1,5 @@
 <p align="center"><img width='150px' src='https://github.com/AdaoBJr/RecipesApp/blob/master/src/images/work1.png' />
-<h1 align="center">Recipes App | FineChefs </h1>  </p>
+<h1 align="center">Recipes App | FineChefs - Responsive Page </h1>  </p>
 
  <h2 align="center">GitHub Pages:</h2>
  
